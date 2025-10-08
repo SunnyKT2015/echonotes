@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎙️ EchoNotes — Lecture Voice to Notes Generator
 
 **EchoNotes** is an intelligent Streamlit-based web app that converts **lecture audio or video** into structured, easy-to-understand notes.
@@ -176,3 +177,6 @@ Built using:
 
 This project is licensed under the **MIT License**.
 Feel free to use, modify, and share it for educational or research purposes.
+=======
+# echonotes
+>>>>>>> ec41faaa4b7b4a456d9caedc637ebebcc6372f8c
