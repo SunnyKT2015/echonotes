@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Streamlit / local output
+uploads/
+outputs/
+
+# IDE
+.vscode/
+.idea/
